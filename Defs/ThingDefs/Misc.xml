@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!---->
+	<ThingDef>
+		<defName>HumanCloneTemplate</defName>
+		<label>DNA template</label>
+		<description>Template with the gene print of the original owner.</description>
+		<thingClass>CloneFramework.HumanCloneTemplate</thingClass>
+		<graphicData>
+			<texPath>Things/HumanCloneTemplate</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<MarketValue>50</MarketValue>
+			<Mass>0.5</Mass>
+		</statBases>
+		<thingCategories>
+			<li>ItemsMisc</li>
+		</thingCategories>
+		<category>Item</category>
+		<alwaysHaulable>true</alwaysHaulable>
+		<drawGUIOverlay>true</drawGUIOverlay>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<rotatable>false</rotatable>
+		<pathCost>14</pathCost>
+		<comps>
+			<li Class="CompProperties_HasPawnSources"/>
+		</comps>
+	</ThingDef>
+	<!---->
+</Defs>

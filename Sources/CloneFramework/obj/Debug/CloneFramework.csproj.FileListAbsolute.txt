@@ -1,0 +1,10 @@
+C:\Users\louiz\source\repos\Clones\Sources\CloneFramework\bin\Debug\CloneFramework.dll
+C:\Users\louiz\source\repos\Clones\Sources\CloneFramework\bin\Debug\CloneFramework.pdb
+C:\Users\louiz\source\repos\Clones\Sources\CloneFramework\bin\Debug\0Harmony.dll
+C:\Users\louiz\source\repos\Clones\Sources\CloneFramework\bin\Debug\0Harmony.pdb
+C:\Users\louiz\source\repos\Clones\Sources\CloneFramework\bin\Debug\0Harmony.xml
+C:\Users\louiz\source\repos\Clones\Sources\CloneFramework\obj\Debug\CloneFramework.csproj.AssemblyReference.cache
+C:\Users\louiz\source\repos\Clones\Sources\CloneFramework\obj\Debug\CloneFramework.csproj.CoreCompileInputs.cache
+C:\Users\louiz\source\repos\Clones\Sources\CloneFramework\obj\Debug\CloneFra.A79145EE.Up2Date
+C:\Users\louiz\source\repos\Clones\Sources\CloneFramework\obj\Debug\CloneFramework.dll
+C:\Users\louiz\source\repos\Clones\Sources\CloneFramework\obj\Debug\CloneFramework.pdb

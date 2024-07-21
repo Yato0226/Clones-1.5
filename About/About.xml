@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Clones</name>
+	<author>DimonSever000, Louize</author>
+	<description>This mod allows you to clone your pawns. A clone receives a set of traits and appearance from its parent..
+	You can get the original link here: https://steamcommunity.com/sharedfiles/filedetails/?id=2881835817
+	
+	Updated to 1.5
+	</description>
+	<packageId>louize.CloneFramework.Specific</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>https://github.com/pardeike/HarmonyRimWorld</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData> 

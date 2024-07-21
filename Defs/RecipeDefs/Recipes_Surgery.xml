@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!---->
+	<RecipeDef ParentName="SurgeryFlesh">
+		<defName>CollectGenesClone</defName>
+		<label>Collect genes for cloning</label>
+		<description>The operation of compiling a template for cloning.</description>
+		<workerClass>CloneFramework.RecipeWorker_Clone</workerClass>
+		<jobString>Does a gen collecting.</jobString>
+		<workAmount>2000</workAmount>
+		<surgerySuccessChanceFactor>3</surgerySuccessChanceFactor>
+		<deathOnFailedSurgeryChance>0</deathOnFailedSurgeryChance>
+		<ingredients inherit="false">
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MedicineUltratech</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<targetsBodyPart>false</targetsBodyPart>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MedicineUltratech</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
+	</RecipeDef>
+	<!---->
+</Defs>

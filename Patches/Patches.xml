@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<!---->
+	<Operation Class="PatchOperationSequence">
+		<success>Normal</success>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>*/ThingDef[defName="GrowthVat"]/thingClass</xpath>
+				<value>
+					<thingClass>CloneFramework.Building_GrowthVatCloneFramework</thingClass>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	<!---->
+</Patch>
